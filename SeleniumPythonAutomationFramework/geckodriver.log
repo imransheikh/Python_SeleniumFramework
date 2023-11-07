@@ -1,0 +1,44 @@
+1657477822701	geckodriver	INFO	Listening on 127.0.0.1:53881
+1657477825771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Imran\\AppData\\Local\\Temp\\rust_mozprofileAkHzBq"
+1657477826086	Marionette	INFO	Marionette enabled
+1657477826091	Marionette	INFO	Listening on port 53893
+Read port: 53893
+1657477826243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Imran\\AppData\\Local\\Temp\\rust_mozprofileAkHzBq\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53954
+1657477874705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Imran\\AppData\\Local\\Temp\\rust_mozprofilePjgvB3"
+1657477875056	Marionette	INFO	Marionette enabled
+1657477875061	Marionette	INFO	Listening on port 53966
+Read port: 53966
+1657477875219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Imran\\AppData\\Local\\Temp\\rust_mozprofilePjgvB3\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54031
+1657477925533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Imran\\AppData\\Local\\Temp\\rust_mozprofiledUt404"
+1657477926212	Marionette	INFO	Marionette enabled
+1657477926216	Marionette	INFO	Listening on port 54043
+Read port: 54043
+1657477926387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Imran\\AppData\\Local\\Temp\\rust_mozprofiledUt404\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Invalid port. Exiting...
+1658569341984	geckodriver	INFO	Listening on 127.0.0.1:60827
+1658569345062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Imran\\AppData\\Local\\Temp\\rust_mozprofilefJzPJj"
+1658569346002	Marionette	INFO	Marionette enabled
+1658569346008	Marionette	INFO	Listening on port 60839
+Read port: 60839
+1658569346530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Imran\\AppData\\Local\\Temp\\rust_mozprofilefJzPJj\\search.json.mozlz4", (void 0)))
+1658569371725	Marionette	INFO	Stopped listening on port 60839
+1658570120356	geckodriver	INFO	Listening on 127.0.0.1:61134
+1658570123437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Imran\\AppData\\Local\\Temp\\rust_mozprofilezVxB5t"
+1658570124134	Marionette	INFO	Marionette enabled
+1658570124141	Marionette	INFO	Listening on port 61146
+Read port: 61146
+1658570124598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Imran\\AppData\\Local\\Temp\\rust_mozprofilezVxB5t\\search.json.mozlz4", (void 0)))
+1658570128581	Marionette	INFO	Stopped listening on port 61146
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
